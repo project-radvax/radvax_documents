@@ -20,6 +20,7 @@ If you do not see a mist after 4 pumps, try cleaning the nozzle of the bottle.
 
 # To take the vaccine
 - Blow your nose thoroughly, to clean your nasal passages.
+- Shake the bottle gently.
 - Remove the lid, then wipe the nozzle with an alcohol swab.
 - Keeping the bottle upright, place the tip of the nozzle in one nostril.
 	- Leave the other nostril alone.
