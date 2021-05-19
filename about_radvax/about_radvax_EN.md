@@ -62,7 +62,7 @@ The other difficulty in evaluating efficacy is that RadVax stimulates a differen
 # How difficult is it to make RadVax?
 For the latest generations, **it's very easy**.  It takes only **basic laboratory skills** to make RadVax, so anyone with a bachelor's degree in chemistry, biology, or a related field can learn to make it in about an hour.  Once the ingredients are acquired, the process itself can be **done in less than an hour**.
 
-There are **only 5 ingredients**, 3 of which are widely available: 
+There are **only 5 ingredients**: 
   - distilled water
   - salt (sodium chloride)
   - TPP (trisodium phosphate, a widely-used food additive)
