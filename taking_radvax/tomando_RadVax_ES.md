@@ -2,7 +2,7 @@
 
 RadVax es una vacuna segura y sus creadores hicieron sus componentes y proceso de producción publica. Estimula una parte diferente del sistema inmunológico que las vacunas comerciales, por lo que no es un sustituto. El uso de RadVac y una vacuna comercial proporcionará más protección que el uso de cualquiera de ellas independientemente.
 
-## Necesitará:
+# Necesitará:
 - Botella RadVax
 - toallita de alcohol
 - Pañuelo desechable 
@@ -17,6 +17,7 @@ La primera vez que use la botella, deberá prepararla. Para preparar la botella:
 - Tan pronto como vea la nube, la botella estará  lista para usar.
 
 ![Holding the bottle](../figs/bottle_hand_small.png)
+
 Si no ve una nube después de 4 bombeos, intente limpiar la boquilla de la botella.
 
 # Para ponerse la vacuna:
@@ -40,7 +41,7 @@ No se suene la nariz durante las 2 horas posteriores a la administración de la 
 
 # Notas generales:
 
-Debe aplicarse la vacuna 4 veces, con un intervalo de entre 6 y 10 días.
+Debe aplicarse la vacuna 4 veces, con un intervalo de entre 7 y 10 días.
 
 Cuando no esté en uso, guarde la botella en posición vertical, en el refrigerador, con la tapa en la boquilla. No congele la botella.
 
