@@ -22,6 +22,7 @@ Si no ve una nube después de 4 bombeos, intente limpiar la boquilla de la botel
 
 # Para ponerse la vacuna:
 - Suénese bien la nariz para limpiar sus fosas nasales.
+- Agitar suavemente la botella.
 - Retire la tapa y luego limpie la boquilla con un paño de alcohol.
 - Manteniendo la botella en posición vertical, coloque la punta de la boquilla en una fosa nasal.
   - No tape la otra fosa nasal.
