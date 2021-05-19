@@ -20,30 +20,29 @@ If you do not see a mist after 4 pumps, try cleaning the nozzle of the bottle.
 
 # To take the vaccine
 - Blow your nose thoroughly, to clean your nasal passages.
-	- This is especially important for children, who tend to be snotty.
 - Remove the lid, then wipe the nozzle with an alcohol swab.
 - Keeping the bottle upright, place the tip of the nozzle in one nostril.
 	- Leave the other nostril alone.
 - Breathe deeply through your nose, as though you were smelling a flower.
-- While breathing in through your nose, pump the lid once.  
+- **While breathing in through your nose, pump the lid once.**
 	- You will feel the mist in your nose.  
 - Breathe out through your mouth.
-- Switch the nozzle to the other nostril, then pump the lid once.
+- **Switch the nozzle to the other nostril**, then pump the lid once.
 
 ![Breathe in while pumping the bottle](../figs/sinus_spray.png)
 
 Next steps:
 - Try not to let the vaccine drip out your nose (it may help to tilt your head backwards). 
-- Wait a few minutes, then spray once into each nostril again.  
-	- You should pump 4 times in total (twice into each nostril).
+- Wait a few minutes, then **spray once into each nostril again**.
+	- You should pump **4 times in total** (twice into each nostril).
 
 Do not blow your nose for 2 hours after administering the vaccine.
 
 
 # General Notes
-You should take the vaccine 3-4 times, spaced about 7 to 10 days apart.
+You should take the vaccine **3-4 times**, spaced about **7 to 10 days apart**.
 
-When not in use, store the bottle upright, in the refrigerator, with the cap on the lid.  Do not freeze the bottle.
+When not in use, **store the bottle upright**, in the refrigerator, with the cap on the lid.  Do not freeze the bottle.
 
 When refrigerated, the vaccine will last for about 2 weeks before losing its effectiveness.
 
